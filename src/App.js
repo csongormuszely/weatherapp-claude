@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import {
-  Search,
   ChevronLeft,
   Sun,
   Cloud,
@@ -8,7 +7,6 @@ import {
   CloudSun,
   Moon,
   CloudMoon,
-  MapPin,
   Clock,
   Thermometer,
   Droplets,
